@@ -5,7 +5,7 @@ import './App.css';
 import SearchIcon from './search.svg'
 import MovieCard from './component/MovieCard';
 
-const API_URL = 'http://www.omdbapi.com/?i=tt3896198&apikey=408e1a5b'
+const API_URL = 'https://www.omdbapi.com/?i=tt3896198&apikey=408e1a5b'
 
 const movie1 = {
   "Title": "Batman Beyond: Return of the Joker",
